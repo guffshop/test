@@ -1,0 +1,6 @@
+{
+  "name": "Creative Masterclass",
+  "description": "Exclusive creative courses in Photoshop, Mobile Videography, CapCut Editing, and Content Creation with unlisted YouTube classes and Google Sheet student verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
